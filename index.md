@@ -1,14 +1,13 @@
 ---
 layout: home
-title: "Tan Zhe Yue's Portfolio"
+title: Welcome
 ---
 
 Welcome to my personal website!
 
 Here, you can find:
-- My projects
-- My CV
-- My achievements
-- My interests
 
-Feel free to explore!
+- [My Projects](/portfolio/)
+- [My CV](/files/cv.pdf)
+- [My Achievements](/achievements/)
+- [My Interests](/interests/)
