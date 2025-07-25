@@ -1,21 +1,24 @@
 ---
-title: "FIRST LEGO League 2024 – Team Leader & Lead Programmer"
-excerpt: "Led the team to win an award at the FIRST LEGO League 2024; featured in Sin Chew Daily."
+title: "FIRST LEGO League 2024"
+excerpt: "Team leader and lead programmer for the robotics team featured in Sin Chew Daily."
 collection: portfolio
 ---
 
-In **FIRST LEGO League (FLL) 2024**, I served as the **team leader and lead programmer** for our robotics team. We participated in the national-level competition representing **Chung Ling Private High School**, and were **featured in Sin Chew Daily** for our outstanding performance and teamwork.
+![FLL Team Photo](/images/fll_photo.png)
 
-📰 **Media Coverage:**  
-[Sin Chew Daily – 星洲日报报导](https://northern.sinchew.com.my/news/20250508/northern/6517253)
+I participated in the **FIRST LEGO League (FLL) 2024** as the **team leader and lead programmer**.  
+Our team successfully designed, built, and programmed a LEGO robot to complete mission-based challenges. We also presented an innovative project addressing real-world problems using STEM principles.
 
-The article highlights our innovation, coding strategies, and collaboration throughout the competition.
+Our achievement was recognized publicly, and we were **featured in the Sin Chew Daily** newspaper for our outstanding performance.
 
-> “该校机器人队伍在指导老师蔡明仁的带领下，包括队长陈则宇、队员林乐谦、蔡承翰、罗翊棠、郑永健、林钰恩、张可柔及杨凯琳。”
+🔗 [Read the article on Sin Chew Daily](https://northern.sinchew.com.my/news/20250508/northern/6517253)
 
-As the **main programmer**, I was responsible for:
-- Developing autonomous mission strategies
-- Writing and debugging all EV3 programs
-- Coordinating between subteams (design, programming, and presentation)
+**My roles:**
+- Led the entire team through project milestones and deadlines.
+- Coded all mission algorithms using the LEGO SPIKE Prime platform.
+- Co-presented our innovation to the panel of judges.
 
-We gained valuable experience in **STEM, teamwork, and real-world problem-solving** through this international robotics platform.
+**Skills demonstrated:**
+- Leadership & collaboration
+- STEM research & solution design
+- Robotics & programming
