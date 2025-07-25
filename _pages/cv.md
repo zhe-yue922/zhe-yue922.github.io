@@ -1,64 +1,49 @@
 ---
-layout: archive
+layout: cv
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+# Tan Zhe Yue
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Form 1 Student, Chung Ling Private High School**  
+Pulau Pinang, Malaysia  
+Email: [s25346@clphs.edu.my](mailto:s25346@clphs.edu.my) / [zy.tan988@gmail.com](mailto:zy.tan988@gmail.com)  
+Phone: +60 16-440 0288  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 🏆 Awards & Achievements
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **DIGITAL UTILISATION AND TECHNOLOGY AWARDS (DUTA)** – IKON MURID DIGITAL ROBOTIK, Pulau Pinang (2024)  
+- **International STEM Innovation Competition (ISIC)** – Winner (2024)  
+- **FIRST LEGO League (FLL)** – Team Leader & Lead Programmer, Featured in *Sin Chew Daily* (2024)  
+  - [News article link (Sin Chew Daily)](https://northern.sinchew.com.my/news/20250508/northern/6517253)
+- **Rero Annual Championship (RAC)** – Winner (2024)  
+- **Junior Aviator Drone Challenge** – Winner (2023)  
+- **Pertandingan Kecerdasan Buatan Robotik (AI)** – Winner (2022)  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## 💻 Skills & Interests
+
+- Programming & Robotics (FLL, Arduino, LEGO Mindstorms, AI)
+- Electronic Projects & Drone Systems
+- Photography & Video Editing  
+- Languages: Mandarin, English, Malay, Hokkien
+
+---
+
+## 📸 Portfolio
+
+For detailed projects and competition highlights, please visit the [Projects](/portfolio/) page.
+
+---
+
+## 📫 Contact
+
+- GitHub: [zhe-yue922](https://github.com/zhe-yue922)
+- Email (School): [s25346@clphs.edu.my](mailto:s25346@clphs.edu.my)  
+- Email (Personal): [zy.tan988@gmail.com](mailto:zy.tan988@gmail.com)  
+- Phone: +60 16-440 0288
