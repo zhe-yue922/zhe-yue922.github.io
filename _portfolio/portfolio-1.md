@@ -13,6 +13,8 @@ Our achievement was recognized publicly, and we were **featured in the Sin Chew 
 
 🔗 [Read the article on Sin Chew Daily](https://northern.sinchew.com.my/news/20250508/northern/6517253)
 
+---
+
 **My roles:**
 - Led the entire team through project milestones and deadlines.
 - Coded all mission algorithms using the LEGO SPIKE Prime platform.
